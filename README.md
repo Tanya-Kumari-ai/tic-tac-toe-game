@@ -1,2 +1,1 @@
-# tic-tac-toe-game
-a mini project on a game using html,css,javascript.
+https://verdant-granita-59aa17.netlify.app/ 
